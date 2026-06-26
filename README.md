@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shwethasakthidharan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d8PEv-4JNItNmVIq39LtPoGNEenRmUv9/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vdxdDFLdTaE-8j-hgVs3ZOXz0BlcfYJP/view?usp=sharing]
 
 - ⚡ Fun fact **"I once spent an entire weekend optimizing a model, only to realize I'd trained it on the wrong dataset... Turns out, AI needs some human emotion too!"**
 
